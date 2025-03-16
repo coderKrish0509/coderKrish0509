@@ -1,9 +1,14 @@
 # 💫 About Me:
 🎯 I’m currently working on building data analysis dashboards.
+
 🤝 I’m looking to collaborate on data-driven projects and internships.
+
 🧠 I’m looking for help with improving my Power BI and Tableau skills.
+
 📚 I’m currently learning advanced Python, SQL, and Data Modeling.
+
 💬 Ask me about data visualization, cleaning, and storytelling.
+
 ⚡ Fun fact: I love simplifying complex data into clear insights.
 
 
