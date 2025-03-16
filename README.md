@@ -1,5 +1,10 @@
 # 💫 About Me:
-Hi, I’m Krishna Pradhan – Data Enthusiast, Visual Thinker, and Problem-Solver.<br>📊 Aspiring Data Analyst | Python & SQL Lover | Dashboard Creator<br><br>With a passion for uncovering insights through data, I specialize in transforming raw numbers into meaningful stories. From Excel dashboards to Power BI visualizations, I bring clarity to complexity and drive decisions through data.
+🎯 I’m currently working on building data analysis dashboards.
+🤝 I’m looking to collaborate on data-driven projects and internships.
+🧠 I’m looking for help with improving my Power BI and Tableau skills.
+📚 I’m currently learning advanced Python, SQL, and Data Modeling.
+💬 Ask me about data visualization, cleaning, and storytelling.
+⚡ Fun fact: I love simplifying complex data into clear insights.
 
 
 ## 🌐 Socials:
